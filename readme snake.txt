@@ -1,2 +1,8 @@
-Le joueur contr?le la direction d'avancement du serpent par le click gauche du souris, le serpent doit slalomer entre les bords de l'¨¦cran, pour gaganer le jeux il faut que le joueur faire manger ¨¤ son serpent plus de pastilles qui s'appraise al¨¦toirement sur l'¨¦crans, et le serpent s'allonge chaque foi la taille du pastille. Alors que le serpent avance inexorablement avec une vitesse propotionnelle ¨¤ sa taille, le joueur ne peut que lui indiquer une direction ¨¤ suivre qfin d'¨¦viter que la t¨ºte du serpent ne touche les murs ou son propre corps, quauel cas il risque de mourir.
+Le joueur controle la direction d'avancement du serpent par le clic gauche du souris. 
+Le serpent doit slalomer entre les bords de l'Ã©cran. 
+Pour le jeu il faut que le joueur fasse manger Ã  son serpent plus de pastilles qui s 'estime officiellement sur l'Ã©coulement.
+Et le serpent s'allonge Ã  chaque fois que la taille du pastille est atteinte.
+Alors que le serpent avance inexorablement avec une vitesse propotionnelle avec une taille,
+le joueur ne peut pas Ãªtre suivi par une direction Ã  suivre, 
+soit que la tÃªte du serpent ne touche pas les murs ou son propre corps, qu'il risque de mourir.
 
